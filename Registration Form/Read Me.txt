@@ -1,0 +1,14 @@
+Create a database for INSTRUCTOR : registration_form (database name should be  the same)
+
+Create a database for STUDENTS : registration_form_students (database name should be  the same)
+
+Import MySQL Database From here (:/Registration Form/mysql data/) Import tables from here
+
+open file (localhost/Registration form/home_registration_form.php)
+
+OR
+
+open file (localhost/Registration form/) then select "home_registration_form.php" from the list.
+
+Select Instructor or Student for registration, After registration Login with the email id and Given password.
+
